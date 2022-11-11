@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @meritonluma
+- 👀 I’m interested in Quality Assurance 
+- 🌱 I’m currently learning QA Automation 
